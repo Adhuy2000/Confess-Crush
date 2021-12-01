@@ -1,12 +1,9 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Em à!',
+    introDesc: `Anh Hỏi Một Câu Nha`,
     btnIntro: 'hihi',
     title: 'Các Em Có Muốn Làm NY Của Anh Ko,
-    desc: 'Nếu Ko Trả Lời Mà Thoát Ra Tức alaf Muốn Làm NY Của Anh R Đs',
+    desc: 'Nếu Ko Trả Lời Mà Thoát Ra Tức Là Muốn Làm NY Của Anh R Đó',
     btnYes: 'Vâng , Em Muốn Làm NY Của Anh',
     btnNo: 'Không, Anh Mơ À :))',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ;))',
