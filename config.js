@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Anh Hỏi Một Câu Nha`,
+    introTitle: 'Em à',
+    introDesc: `Anh Hỏi Một Câu Nha',
     btnIntro: 'hihi',
-    title: 'Các Em Có Muốn Làm NY Của Anh Ko,
+    title: 'Các Em Có Muốn Làm NY Của Anh Ko',
     desc: 'Nếu Ko Trả Lời Mà Thoát Ra Tức Là Muốn Làm NY Của Anh R Đó',
     btnYes: 'Vâng , Em Muốn Làm NY Của Anh',
     btnNo: 'Không, Anh Mơ À :))',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/huytrumsvzxc'
+    messLink: 'https://m.me/huytrumsvzxc',
 }
